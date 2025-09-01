@@ -1,0 +1,519 @@
+1. What is your age?,2. What is your gender? ,3. Relationship Status ?,4. What is your Profession?,5. Do you use social media?,6. Which social media platforms do you commonly use?,7. What is the average time you spend on social media every day? (Hour),8. How does using social media typically make you feel ?,9.Do you think social media contributes to feelings of loneliness or isolation?,10. Do you experience feelings of inadequacy or low self-esteem after viewing others posts?,11. Does the news you see on social media affect you emotionally?,"12. On a Scale of 1 to 5 , Do you feel more connected to friends and family because of social media?",13. Do you use social media immediately after waking up or before going to bed?,14. How many hours do you sleep in a day? (In Hours),"15. On a scale of 1 to 5 , Have you ever compared yourself to others on social media? If so, how often?","16. On a scale of 1 to 5,   How often do you get distracted by Social media when you are busy doing something?","17. On a scale of 1 to 5, how frequently does your interest in daily activities fluctuate ?","18. What do you think , is Social Media effects on your mental health ?"
+23,Male,In a relationship,Student,Yes,"Facebook, Instagram, YouTube",3,Indifferent,Sometimes,Sometimes,Yes,3,Yes,9,2,1,2,Yes
+22,Female,Single,Student,Yes,"Facebook, YouTube",4,Stressed,Yes,Sometimes,Yes,1,Yes,9,3,5,5,Yes
+23,Female,Single,Student,Yes,"Facebook, YouTube",4,Happy,Sometimes,Sometimes,Sometimes,4,Yes,8,3,4,5,No 
+23,Female,Married,Student,Yes,"Facebook, Instagram, YouTube, SnapChat",4,Happy,Yes,No,Yes,3,Yes,6,2,3,3,Yes
+24,Male,Single,Student,Yes,"Facebook, Instagram, YouTube",5,Stressed,No,No,Sometimes,2,Yes,9,3,4,2,Yes
+23,Male,Single,Student,Yes,"Facebook, Instagram, Twitter, YouTube",5,Indifferent,Yes,Yes,Yes,3,Yes,7,3,3,3,Yes
+24,Male,Single,Student,Yes,Facebook,4,Indifferent,Yes,Sometimes,Yes,1,Yes,8,2,3,1,Yes
+20,Female,Single,Student,Yes,Facebook,2,Happy,Yes,Sometimes,Yes,2,Yes,5,2,2,3,Yes
+16,Female,Single,Student,Yes,YouTube,5,Stressed,Sometimes,Yes,Sometimes,4,No,7,2,5,1,Yes
+18,Male,Single,Student,Yes,Facebook,2,Happy,Yes,No,Yes,3,Yes,8,3,2,3,No
+18,Female,Single,Businessman,No,Tik Tok,3,Happy,No,No,Yes,4,No,6,2,3,4,No
+20,Male,Married,Others,Yes,Facebook,5,Happy,Yes,No,Yes,4,No,6,3,1,1,No
+20,Male,Married,Service Holder,Yes,Discord,3,Anxious,No,No,No,3,No,7,1,2,3,No
+23,Female,Divorced,Businessman,No,Instagram,5,Indifferent,No,Yes,No,4,No,5,5,4,3,Yes
+30,Male,Married,Businessman,Yes,Facebook,3,Indifferent,No,Sometimes,Sometimes,2,No,7,1,2,3,Yes
+14,Male,Single,Student,Yes,YouTube,5,Happy,Yes,No,Yes,2,No,8,1,2,3,No
+20,Male,Single,Student,Yes,Facebook,4,Indifferent,Sometimes,Sometimes,Sometimes,2,Yes,5,3,2,2,Yes
+25,Female,In a relationship,Businessman,Yes,Instagram,4,Anxious,Yes,No,No,2,Yes,6,1,2,4,No
+17,Female,Single,Student,Yes,YouTube,3,Indifferent,No,Sometimes,Sometimes,2,No,8,3,3,4,No
+33,Female,Married,Others,Yes,YouTube,2,Indifferent,No,Yes,Yes,2,No,6,1,2,4,Yes
+18,Female,Married,Others,Yes,YouTube,3,Happy,Yes,No,Sometimes,3,No,6,3,3,1,No
+45,Female,Single,Others,Yes,SnapChat,3,Happy,Yes,No,Yes,2,Yes,8,2,3,2,No
+19,Male,Single,Student,Yes,Facebook,5,Happy,Sometimes,Yes,Yes,2,Yes,8,3,4,2,Yes
+21,Male,Single,Student,Yes,"Facebook, YouTube, Tik Tok, SnapChat",5,Indifferent,Yes,Yes,Sometimes,3,Yes,6,3,3,4,Yes
+24,Female,In a relationship,Student,Yes,Facebook,3,Happy,No,No,No,3,Yes,3,4,1,3,No
+65,Male,Married,Businessman,Yes,Discord,3,Anxious,Yes,No,Yes,2,No,6,4,1,4,Yes
+22,Male,Single,Student,Yes,"Facebook, Twitter, YouTube, Tik Tok, SnapChat",5,Happy,Sometimes,Sometimes,Sometimes,4,Yes,7,3,2,4,No
+57,Male,In a relationship,Student,Yes,Instagram,5,Indifferent,Sometimes,Yes,No,4,Yes,4,3,2,4,Yes
+24,Male,Single,Businessman,Yes,"Facebook, YouTube, Tik Tok",4,Happy,Yes,Sometimes,Sometimes,4,Yes,5,2,2,2,No
+27,Female,In a relationship,Student,Yes,Twitter,4,Stressed,No,Sometimes,No,4,Yes,9,1,5,2,Yes
+25,Female,Married,Service Holder,Yes,"YouTube, Tik Tok",5,Happy,Sometimes,Sometimes,Sometimes,4,Yes,6,2,2,3,No
+45,Female,Divorced,Service Holder,Yes,Facebook,4,Anxious,Sometimes,Sometimes,Yes,1,No,9,5,1,3,Yes
+59,Male,Single,Others,Yes,Tik Tok,3,Indifferent,Yes,Sometimes,No,2,Yes,10,4,4,3,Yes
+25,Female,Married,Student,Yes,"Facebook, Instagram, YouTube, Tik Tok",5,Happy,Sometimes,Sometimes,No,3,No,8,1,2,3,No
+26,Male,Married,Businessman,Yes,"Facebook, YouTube, Tik Tok",4,Happy,Sometimes,Yes,Sometimes,4,No,6,3,3,3,No
+27,Female,In a relationship,Student,Yes,Twitter,2,Happy,Yes,No,Yes,5,No,7,1,4,1,No
+28,Male,In a relationship,Student,Yes,SnapChat,3,Stressed,Yes,Sometimes,No,2,Yes,11,5,1,1,Yes
+45,Male,Single,Service Holder,Yes,Twitter,1,Anxious,No,Sometimes,Yes,3,No,3,4,2,2,Yes
+21,Female,In a relationship,Businessman,Yes,Facebook,1,Happy,Sometimes,No,Sometimes,5,No,12,2,1,3,No
+34,Female,Married,Service Holder,Yes,Twitter,2,Indifferent,Yes,No,Yes,3,No,7,1,2,4,Yes
+27,Female,Married,Others,Yes,"YouTube, Tik Tok",4,Happy,Yes,No,Sometimes,3,Yes,5,4,3,2,No
+32,Male,Married,Others,Yes,Twitter,5,Indifferent,No,Sometimes,Yes,1,Yes,4,5,2,3,No
+43,Male,In a relationship,Service Holder,Yes,SnapChat,2,Stressed,No,Sometimes,Yes,1,Yes,11,5,1,3,Yes
+32,Female,Single,Businessman,Yes,"Facebook, Twitter",1,Anxious,No,Yes,Sometimes,3,No,4,3,1,3,Yes
+28,Male,Married,Service Holder,Yes,Discord,1,Anxious,No,Sometimes,Yes,5,No,7,4,5,3,Yes
+17,Female,Single,Student,Yes,"Instagram, YouTube, Tik Tok, SnapChat",5,Happy,Yes,Yes,Sometimes,2,Yes,8,3,4,4,Yes
+57,Male,Single,Businessman,Yes,YouTube,4,Happy,Yes,No,Sometimes,2,Yes,9,4,3,2,No
+18,Male,Single,Student,Yes,"Facebook, YouTube, Tik Tok",4,Happy,No,Yes,Yes,4,Yes,5,3,3,5,No
+57,Male,In a relationship,Businessman,Yes,SnapChat,5,Indifferent,No,Sometimes,No,2,Yes,7,2,2,2,Yes
+30,Female,Married,Student,Yes,"YouTube, Tik Tok",4,Happy,No,No,Yes,3,No,8,3,4,3,No
+67,Female,Married,Businessman,Yes,Instagram,4,Stressed,No,Yes,Sometimes,3,Yes,5,3,2,1,Yes
+24,Female,In a relationship,Student,Yes,Facebook,2,Happy,Sometimes,No,Sometimes,5,No,7,5,1,1,No
+16,Female,Single,Student,Yes,"Facebook, YouTube, Tik Tok",2,Happy,Yes,No,Sometimes,3,No,7,4,2,2,No
+20,Female,Single,Businessman,Yes,Twitter,1,Stressed,Yes,Sometimes,No,1,No,4,3,2,5,Yes
+32,Male,Married,Others,Yes,"Facebook, Instagram, YouTube, Tik Tok",4,Happy,Yes,Yes,Yes,4,No,6,2,3,4,Yes
+28,Male,Married,Service Holder,No,Instagram,1,Indifferent,No,No,Yes,2,No,4,3,3,4,Yes
+25,Male,Single,Student,Yes,"Facebook, Instagram, YouTube, Discord",4,Happy,Sometimes,Sometimes,Yes,2,Yes,7,2,2,3,Yes
+23,Male,In a relationship,Student,Yes,"Facebook, Instagram, YouTube, Tik Tok, SnapChat",5,Happy,Yes,Yes,Sometimes,3,No,5,3,4,3,No
+45,Female,In a relationship,Businessman,Yes,Facebook,1,Happy,Sometimes,Yes,Sometimes,2,Yes,4,5,2,5,Yes
+23,Female,Married,Service Holder,Yes,Twitter,1,Happy,Sometimes,Yes,Sometimes,2,Yes,4,4,5,2,No
+18,Female,Single,Student,Yes,"Facebook, Instagram, YouTube, Tik Tok",5,Happy,No,Sometimes,No,4,Yes,5,4,4,3,Yes
+19,Male,In a relationship,Student,Yes,"Facebook, YouTube, Tik Tok",5,Happy,Sometimes,Yes,Sometimes,4,Yes,7,3,3,4,Yes
+20,Male,In a relationship,Student,Yes,"Facebook, YouTube, Tik Tok",5,Happy,Yes,Yes,Yes,1,Yes,5,3,3,3,Yes
+35,Female,In a relationship,Service Holder,Yes,YouTube,3,Indifferent,No,No,Sometimes,1,Yes,4,3,4,4,No
+21,Female,Married,Businessman,Yes,Twitter,1,Happy,Yes,No,Sometimes,5,No,7,5,5,5,Yes
+33,Female,Married,Businessman,Yes,Discord,3,Indifferent,Yes,Sometimes,Sometimes,4,No,8,1,3,1,Yes
+21,Male,In a relationship,Student,Yes,"Facebook, YouTube, Tik Tok",4,Happy,Yes,No,Yes,1,Yes,5,3,3,4,No
+72,Male,Married,Businessman,Yes,Twitter,2,Happy,Sometimes,No,Yes,3,No,8,4,4,4,Yes
+33,Male,In a relationship,Student,Yes,YouTube,3,Happy,No,Yes,Sometimes,3,Yes,8,3,2,2,No
+22,Female,In a relationship,Student,Yes,"Facebook, YouTube, Tik Tok",3,Happy,Yes,Sometimes,Sometimes,4,Yes,4,4,3,2,Yes
+24,Female,Married,Businessman,Yes,"Facebook, YouTube",3,Happy,Sometimes,Sometimes,Yes,4,No,8,3,2,3,Yes
+23,Male,In a relationship,Businessman,Yes,"Facebook, Instagram, YouTube, Tik Tok",5,Anxious,Yes,Sometimes,Sometimes,3,Yes,6,4,4,1,No
+31,Male,Married,Businessman,No,Discord,3,Happy,No,No,Sometimes,3,No,5,1,2,5,Yes
+24,Male,Married,Businessman,Yes,"Facebook, Instagram, YouTube, Tik Tok, SnapChat",3,Happy,Sometimes,Sometimes,Sometimes,2,Yes,5,2,1,2,Yes
+23,Female,Married,Service Holder,Yes,SnapChat,4,Stressed,Yes,Yes,No,3,Yes,7,4,2,2,Yes
+25,Male,Married,Service Holder,Yes,"Facebook, Instagram, YouTube, Tik Tok, SnapChat",4,Indifferent,Yes,Yes,No,2,Yes,6,3,3,3,No
+23,Male,Single,Student,Yes,Tik Tok,2,Indifferent,No,No,Sometimes,2,Yes,7,2,3,3,Yes
+21,Female,Single,Student,Yes,"Facebook, Instagram, YouTube",5,Stressed,Yes,Sometimes,Sometimes,5,Yes,6,4,4,5,Yes
+33,Male,Divorced,Student,Yes,Twitter,3,Anxious,No,Sometimes,Yes,3,No,9,5,4,2,Yes
+26,Female,Married,Service Holder,Yes,"Facebook, YouTube, Tik Tok",4,Happy,Yes,No,Sometimes,2,No,5,3,2,3,Yes
+34,Female,Married,Student,Yes,Facebook,2,Happy,No,Sometimes,No,3,No,4,5,3,3,No
+27,Male,In a relationship,Student,Yes,"Facebook, Instagram, Twitter, Tik Tok, Discord",5,Anxious,Yes,Yes,Sometimes,2,Yes,5,3,4,2,Yes
+28,Male,In a relationship,Businessman,Yes,"Facebook, YouTube, Tik Tok",4,Happy,Sometimes,Sometimes,Sometimes,3,Yes,6,2,3,5,No
+22,Male,Single,Student,Yes,YouTube,5,Happy,Sometimes,Yes,No,2,No,3,3,4,5,Yes
+66,Male,Married,Businessman,Yes,Tik Tok,4,Happy,Yes,No,No,4,No,5,4,2,1,No
+29,Male,Married,Businessman,Yes,"Facebook, YouTube, Tik Tok",3,Stressed,Yes,Yes,Yes,1,Yes,4,3,1,3,Yes
+45,Male,Married,Others,Yes,YouTube,2,Anxious,No,Sometimes,Yes,5,Yes,3,5,1,2,Yes
+30,Male,Married,Service Holder,Yes,"Facebook, Tik Tok, Discord",2,Indifferent,No,Sometimes,Sometimes,5,Yes,6,2,4,4,Yes
+55,Female,In a relationship,Service Holder,Yes,Instagram,1,Happy,Sometimes,Sometimes,No,5,Yes,5,2,5,3,No
+31,Male,In a relationship,Businessman,Yes,"Facebook, Instagram, YouTube, Tik Tok, SnapChat",4,Anxious,Yes,Yes,Sometimes,4,Yes,6,1,2,3,No
+32,Female,Married,Others,Yes,"Facebook, Instagram, YouTube, Tik Tok",3,Happy,No,Yes,Sometimes,3,Yes,8,3,2,3,No
+55,Female,Married,Service Holder,Yes,Facebook,2,Indifferent,No,No,Sometimes,5,Yes,3,4,3,2,Yes
+19,Male,Single,Service Holder,Yes,Twitter,3,Anxious,Sometimes,No,No,2,No,8,1,2,3,No
+33,Female,Married,Service Holder,Yes,"Facebook, Instagram, YouTube, Tik Tok",3,Happy,Yes,No,Sometimes,2,Yes,7,3,3,3,No
+34,Female,Married,Others,Yes,"Facebook, Twitter, Tik Tok, Discord",3,Happy,Yes,Yes,Sometimes,3,Yes,7,4,1,2,No
+44,Female,In a relationship,Service Holder,Yes,Facebook,5,Stressed,Sometimes,Yes,No,5,Yes,7,2,2,4,Yes
+23,Female,In a relationship,Student,Yes,Twitter,1,Happy,Sometimes,No,Sometimes,5,Yes,6,5,4,4,Yes
+22,Male,In a relationship,Businessman,Yes,Tik Tok,3,Anxious,Sometimes,Yes,Sometimes,2,Yes,9,3,3,1,No
+33,Female,In a relationship,Service Holder,No,Twitter,4,Indifferent,No,Yes,No,3,No,5,5,3,2,No
+55,Male,Married,Businessman,Yes,Instagram,3,Stressed,Sometimes,Sometimes,No,2,No,4,1,5,4,No
+33,Female,Married,Businessman,Yes,Instagram,4,Happy,No,No,Sometimes,2,Yes,3,5,5,2,No
+33,Male,In a relationship,Service Holder,Yes,YouTube,4,Stressed,Sometimes,Sometimes,No,2,Yes,7,3,2,1,No
+33,Male,Single,Service Holder,Yes,Instagram,1,Happy,No,Yes,Sometimes,2,No,6,4,2,4,No
+44,Female,Married,Businessman,No,Instagram,3,Happy,No,No,Yes,4,Yes,6,4,3,4,No
+19,Male,Married,Student,Yes,Instagram,4,Anxious,No,Sometimes,Sometimes,1,Yes,3,4,4,4,Yes
+32,Female,In a relationship,Businessman,No,YouTube,3,Stressed,Yes,Sometimes,Yes,2,No,4,4,3,1,Yes
+34,Female,Married,Service Holder,Yes,"Facebook, YouTube, Tik Tok",4,Happy,Yes,Yes,Sometimes,3,Yes,7,4,2,2,Yes
+46,Male,In a relationship,Businessman,Yes,Facebook,2,Anxious,Sometimes,Sometimes,Yes,2,Yes,6,1,5,3,Yes
+34,Male,Married,Businessman,Yes,"Facebook, YouTube",2,Happy,Yes,No,Sometimes,3,No,7,2,3,3,Yes
+31,Female,Married,Businessman,Yes,Instagram,3,Stressed,No,No,Sometimes,1,Yes,7,2,2,4,Yes
+35,Male,Married,Service Holder,Yes,"Facebook, YouTube, Tik Tok",3,Indifferent,Yes,Sometimes,Sometimes,4,No,5,1,3,2,Yes
+32,Female,In a relationship,Student,Yes,SnapChat,3,Happy,No,No,Yes,4,No,5,5,2,4,Yes
+36,Male,Married,Businessman,Yes,"Facebook, YouTube, Tik Tok",3,Happy,Yes,No,Sometimes,2,Yes,6,4,3,4,Yes
+43,Female,Married,Student,Yes,YouTube,4,Anxious,No,Sometimes,Yes,1,No,5,3,3,5,Yes
+37,Male,Divorced,Service Holder,Yes,"Facebook, Instagram, YouTube, Tik Tok",4,Stressed,Yes,Sometimes,Sometimes,2,Yes,7,3,3,2,No
+33,Female,In a relationship,Businessman,Yes,YouTube,4,Stressed,Sometimes,No,Yes,1,Yes,2,2,4,2,No
+38,Male,Married,Businessman,Yes,"Facebook, Instagram, Tik Tok",3,Happy,Sometimes,No,Yes,3,Yes,5,3,3,4,No
+32,Female,Married,Businessman,Yes,SnapChat,3,Anxious,Sometimes,No,No,2,Yes,4,3,2,3,No
+39,Female,Married,Service Holder,Yes,"YouTube, Tik Tok",4,Happy,Sometimes,Sometimes,Sometimes,4,Yes,7,3,1,3,No
+40,Male,Married,Businessman,Yes,"Facebook, Tik Tok",2,Happy,Sometimes,Sometimes,Yes,3,Yes,4,3,3,2,No
+37,Male,Married,Service Holder,Yes,Facebook,2,Stressed,Sometimes,Yes,Sometimes,3,Yes,3,3,2,1,Yes
+77,Female,Married,Service Holder,Yes,YouTube,1,Anxious,No,Yes,No,2,No,8,1,2,4,Yes
+41,Male,Married,Businessman,Yes,"Facebook, YouTube, Tik Tok",4,Happy,Yes,Yes,Yes,1,Yes,6,3,2,3,Yes
+46,Male,Married,Service Holder,Yes,Instagram,2,Anxious,Sometimes,No,Yes,4,Yes,8,4,1,1,Yes
+42,Female,Married,Others,Yes,"Facebook, Instagram, YouTube, Tik Tok",4,Happy,Sometimes,Sometimes,Yes,3,Yes,7,3,3,3,No
+44,Female,In a relationship,Businessman,Yes,Instagram,5,Happy,Yes,Yes,No,5,No,8,3,1,2,No
+43,Male,Married,Businessman,Yes,"Facebook, YouTube, Tik Tok",3,Happy,No,Yes,Sometimes,2,Yes,7,3,2,3,Yes
+36,Male,Single,Student,Yes,Tik Tok,2,Anxious,Yes,Sometimes,Sometimes,4,No,8,4,1,2,Yes
+44,Female,Married,Businessman,Yes,"YouTube, Tik Tok",3,Happy,Yes,Yes,Sometimes,3,Yes,6,3,2,2,No
+45,Female,Married,Others,Yes,Tik Tok,4,Happy,No,Sometimes,Sometimes,3,Yes,7,3,2,3,Yes
+23,Male,Married,Businessman,No,Twitter,2,Happy,Yes,No,Sometimes,5,Yes,8,3,2,4,Yes
+55,Female,Married,Businessman,Yes,Facebook,4,Stressed,No,Sometimes,No,2,Yes,6,3,3,3,Yes
+46,Male,Divorced,Others,Yes,"Facebook, Instagram, Twitter, YouTube, Tik Tok, Discord",5,Stressed,Yes,Sometimes,Sometimes,3,Yes,6,3,2,2,No
+45,Female,In a relationship,Businessman,Yes,SnapChat,2,Anxious,No,Sometimes,Yes,2,No,6,5,3,2,No
+47,Male,Married,Businessman,Yes,"Facebook, Tik Tok",3,Happy,No,Sometimes,Sometimes,2,Yes,5,2,3,4,Yes
+44,Male,Single,Service Holder,Yes,YouTube,5,Indifferent,Yes,No,No,5,Yes,5,4,5,2,No
+47,Male,Married,Businessman,Yes,"Facebook, Instagram, Tik Tok",3,Happy,Yes,Yes,Sometimes,2,Yes,6,2,2,3,Yes
+55,Female,Married,Service Holder,Yes,Facebook,4,Anxious,No,Sometimes,No,3,Yes,9,3,4,5,Yes
+48,Female,Married,Others,Yes,Tik Tok,3,Happy,No,No,Sometimes,4,Yes,8,3,3,2,Yes
+49,Male,Married,Businessman,Yes,"Facebook, YouTube, Tik Tok",4,Happy,Sometimes,Sometimes,Sometimes,3,Yes,6,1,2,3,No
+47,Female,Married,Businessman,Yes,Twitter,1,Stressed,No,Yes,Sometimes,3,Yes,5,5,2,3,Yes
+50,Male,Married,Businessman,Yes,Facebook,2,Happy,Yes,Yes,Sometimes,3,Yes,7,3,3,2,No
+61,Female,In a relationship,Service Holder,Yes,Instagram,3,Happy,No,Sometimes,Yes,2,No,3,5,1,3,No
+22,Male,Single,Student,Yes,"Facebook, Instagram, Twitter, YouTube",5,Happy,No,Yes,Sometimes,3,Yes,5,4,3,3,Yes
+32,Female,Married,Businessman,Yes,Facebook,5,Happy,No,No,Yes,2,No,6,4,4,4,Yes
+51,Male,Married,Businessman,Yes,Facebook,5,Happy,No,Sometimes,Sometimes,3,Yes,5,3,1,3,Yes
+56,Female,In a relationship,Service Holder,No,Twitter,4,Happy,No,Sometimes,Sometimes,4,No,5,4,4,4,No
+51,Male,Married,Businessman,Yes,Facebook,3,Happy,Yes,No,Sometimes,3,Yes,5,3,3,3,Yes
+52,Female,Married,Service Holder,Yes,"Facebook, YouTube",4,Happy,Yes,No,Sometimes,3,Yes,8,2,3,3,No
+68,Male,In a relationship,Businessman,Yes,Tik Tok,4,Anxious,No,Sometimes,No,4,No,7,5,3,4,Yes
+53,Male,Married,Others,Yes,"Facebook, Tik Tok",4,Happy,Yes,Sometimes,Sometimes,3,Yes,6,1,1,1,Yes
+86,Female,Married,Service Holder,Yes,Facebook,1,Anxious,Sometimes,No,No,1,Yes,4,2,4,4,No
+54,Female,Married,Others,Yes,Tik Tok,5,Happy,Yes,Sometimes,Sometimes,3,No,5,3,2,3,No
+54,Female,Married,Others,Yes,Tik Tok,1,Happy,Yes,Sometimes,Yes,3,No,6,3,2,4,No
+55,Female,Married,Businessman,Yes,"Facebook, YouTube, Tik Tok",5,Happy,Yes,No,Sometimes,2,Yes,6,1,1,1,No
+65,Male,Married,Businessman,Yes,Tik Tok,3,Indifferent,Sometimes,Yes,Yes,2,Yes,9,4,4,3,Yes
+58,Male,Single,Service Holder,Yes,Instagram,1,Stressed,Sometimes,Sometimes,No,3,Yes,4,3,4,1,Yes
+56,Male,Married,Businessman,Yes,"Facebook, Instagram, Tik Tok",2,Happy,Yes,Yes,Yes,1,No,6,2,2,3,No
+66,Female,Married,Service Holder,Yes,Facebook,4,Indifferent,Sometimes,Sometimes,Yes,2,No,8,4,5,4,Yes
+56,Male,Married,Businessman,Yes,"Facebook, Tik Tok",3,Stressed,Yes,Yes,Sometimes,1,No,6,2,3,3,Yes
+54,Female,In a relationship,Service Holder,Yes,SnapChat,3,Indifferent,No,Yes,Sometimes,3,Yes,5,3,5,5,Yes
+57,Male,Married,Businessman,Yes,"Facebook, Instagram, Tik Tok",3,Happy,Yes,Yes,Sometimes,2,No,7,2,4,4,Yes
+44,Male,Single,Service Holder,Yes,Instagram,5,Indifferent,Sometimes,Yes,No,1,No,3,5,5,2,No
+58,Male,Married,Others,Yes,"Facebook, Tik Tok",2,Happy,Yes,Yes,Yes,3,Yes,8,2,2,4,Yes
+45,Male,Married,Businessman,Yes,YouTube,2,Indifferent,No,Sometimes,Sometimes,3,No,6,3,3,2,Yes
+41,Male,Married,Service Holder,Yes,YouTube,3,Indifferent,Yes,No,Sometimes,4,Yes,8,5,4,2,No
+59,Male,Married,Businessman,Yes,Facebook,2,Happy,Yes,No,Sometimes,3,Yes,5,1,1,3,No
+63,Male,Married,Businessman,Yes,Facebook,2,Anxious,Sometimes,No,Yes,1,Yes,4,5,3,1,Yes
+60,Female,Married,Service Holder,Yes,"Facebook, YouTube, Tik Tok",4,Happy,Yes,No,Sometimes,3,No,7,2,2,3,No
+65,Female,Divorced,Service Holder,Yes,Facebook,1,Anxious,Sometimes,Sometimes,Yes,1,Yes,8,3,3,4,Yes
+61,Male,Married,Service Holder,Yes,"Facebook, YouTube, Tik Tok",3,Anxious,Yes,Yes,Sometimes,3,Yes,4,2,1,1,Yes
+25,Male,Single,Service Holder,Yes,"Facebook, Instagram, YouTube",3,Indifferent,Sometimes,No,Sometimes,3,No,6,3,2,1,No
+57,Female,Married,Businessman,Yes,Twitter,4,Stressed,No,Sometimes,Sometimes,1,Yes,9,3,2,1,No
+62,Male,Married,Others,Yes,Facebook,4,Happy,Yes,No,Sometimes,3,Yes,6,2,3,2,Yes
+67,Female,Married,Service Holder,Yes,Instagram,1,Indifferent,No,No,No,2,Yes,9,4,2,2,No
+63,Male,Married,Service Holder,Yes,Facebook,5,Indifferent,Yes,Yes,Sometimes,3,Yes,7,2,2,3,Yes
+23,Male,In a relationship,Businessman,Yes,Tik Tok,2,Anxious,Yes,Yes,No,3,Yes,6,4,5,2,Yes
+32,Male,Married,Businessman,Yes,Facebook,5,Anxious,Yes,No,Sometimes,3,Yes,5,4,3,1,No
+64,Male,Married,Businessman,Yes,"Facebook, YouTube, Tik Tok",3,Happy,Yes,Yes,Sometimes,3,Yes,6,2,2,2,No
+45,Female,In a relationship,Businessman,Yes,Twitter,3,Stressed,Sometimes,No,No,2,Yes,8,3,3,4,Yes
+65,Male,Married,Businessman,Yes,"Facebook, Tik Tok",4,Anxious,No,Sometimes,Sometimes,3,Yes,5,3,2,4,Yes
+86,Female,Married,Businessman,Yes,YouTube,1,Anxious,Sometimes,Sometimes,No,3,Yes,7,4,5,5,Yes
+66,Male,Married,Businessman,Yes,"Facebook, Instagram",4,Stressed,Yes,Yes,Sometimes,4,No,6,1,1,3,No
+23,Male,In a relationship,Businessman,Yes,Twitter,3,Stressed,No,Yes,Sometimes,4,Yes,5,2,3,4,No
+66,Male,Married,Businessman,Yes,"Facebook, Instagram, Tik Tok",4,Happy,No,Yes,Sometimes,3,Yes,5,2,3,2,No
+67,Male,Married,Businessman,Yes,Facebook,3,Happy,Yes,No,Sometimes,3,Yes,4,2,3,3,No
+45,Female,Married,Businessman,Yes,YouTube,4,Stressed,No,Sometimes,No,3,Yes,8,2,3,4,No
+68,Male,Married,Businessman,Yes,"Facebook, Tik Tok",2,Happy,Yes,No,Yes,2,Yes,5,1,2,2,No
+34,Female,In a relationship,Businessman,Yes,YouTube,2,Stressed,No,No,Sometimes,3,No,5,3,4,4,No
+7,Male,Married,Businessman,No,YouTube,5,Indifferent,No,No,No,3,Yes,7,3,2,4,No
+69,Male,Married,Others,Yes,"Facebook, YouTube, Tik Tok",4,Happy,Sometimes,Sometimes,Sometimes,3,Yes,7,1,2,3,No
+75,Male,Married,Businessman,Yes,Tik Tok,4,Indifferent,Sometimes,Yes,Sometimes,5,No,6,3,2,3,No
+69,Male,Married,Businessman,Yes,"Facebook, Tik Tok",4,Happy,Yes,Yes,Yes,2,No,7,2,3,3,No
+23,Female,In a relationship,Businessman,Yes,Instagram,2,Anxious,Sometimes,Sometimes,Sometimes,2,Yes,7,4,2,4,No
+70,Male,Married,Businessman,Yes,"Facebook, Tik Tok",3,Indifferent,Yes,Yes,Yes,1,Yes,7,2,2,2,Yes
+34,Male,Married,Businessman,No,YouTube,1,Anxious,Sometimes,Yes,No,3,Yes,2,4,4,3,No
+23,Male,In a relationship,Businessman,Yes,YouTube,2,Anxious,No,No,No,3,Yes,6,4,4,5,Yes
+15,Female,Single,Student,Yes,"Facebook, YouTube, Tik Tok",4,Happy,Yes,No,Yes,2,Yes,7,1,1,1,Yes
+35,Female,In a relationship,Businessman,Yes,Facebook,4,Happy,Yes,Yes,Yes,5,Yes,7,4,4,3,Yes
+16,Male,Single,Student,Yes,"Facebook, YouTube",3,Happy,Yes,No,Sometimes,2,Yes,7,1,1,1,No
+56,Female,Married,Student,Yes,SnapChat,4,Stressed,Sometimes,Yes,No,2,No,5,4,3,2,Yes
+17,Female,Single,Student,Yes,"Facebook, YouTube, Tik Tok",4,Happy,No,Yes,Sometimes,3,No,5,2,2,3,Yes
+17,Male,Single,Student,Yes,"YouTube, Tik Tok",3,Anxious,Yes,Yes,Yes,1,Yes,6,2,3,3,Yes
+18,Male,In a relationship,Student,Yes,"Facebook, YouTube, Tik Tok",1,Happy,Yes,No,Sometimes,2,No,5,2,2,2,No
+19,Male,In a relationship,Student,Yes,"Facebook, YouTube, Tik Tok",3,Happy,Yes,No,Sometimes,1,Yes,7,3,1,3,Yes
+19,Female,Single,Student,Yes,Facebook,2,Happy,Yes,Yes,No,4,Yes,6,2,2,3,No
+66,Female,Married,Service Holder,Yes,"Instagram, YouTube",5,Stressed,No,No,Sometimes,4,Yes,8,3,5,2,Yes
+20,Male,In a relationship,Student,Yes,Facebook,3,Happy,Yes,Yes,Sometimes,2,Yes,8,3,3,3,No
+31,Female,In a relationship,Businessman,Yes,Facebook,1,Stressed,No,Yes,Sometimes,3,No,7,2,2,1,No
+21,Male,In a relationship,Student,Yes,"Facebook, YouTube, Tik Tok",3,Happy,Yes,Yes,Sometimes,3,No,7,5,3,4,No
+53,Female,In a relationship,Businessman,Yes,YouTube,3,Anxious,Sometimes,Yes,No,2,Yes,4,3,3,4,Yes
+22,Male,Single,Student,Yes,"Facebook, Instagram, YouTube, Tik Tok",3,Happy,Sometimes,Sometimes,Sometimes,3,Yes,7,1,1,2,No
+43,Female,Married,Service Holder,Yes,Instagram,3,Stressed,No,No,Sometimes,2,Yes,6,5,1,3,Yes
+23,Male,In a relationship,Student,Yes,"Facebook, Instagram, YouTube, Tik Tok",3,Happy,Yes,Yes,Yes,1,Yes,7,1,3,1,Yes
+35,Male,Single,Businessman,Yes,Twitter,5,Stressed,Sometimes,No,Yes,4,No,9,2,3,5,No
+34,Male,In a relationship,Businessman,Yes,SnapChat,3,Indifferent,Sometimes,Sometimes,Sometimes,4,No,9,3,5,1,Yes
+24,Female,In a relationship,Student,Yes,"Facebook, YouTube",4,Stressed,Yes,Yes,Sometimes,2,Yes,6,3,2,2,Yes
+43,Male,In a relationship,Service Holder,Yes,YouTube,2,Stressed,No,Sometimes,No,2,Yes,6,4,3,2,No
+25,Female,Married,Others,Yes,Facebook,4,Happy,Yes,No,Sometimes,3,Yes,6,1,2,4,No
+27,Male,In a relationship,Service Holder,Yes,SnapChat,4,Anxious,Yes,Sometimes,Sometimes,4,No,7,2,3,4,No
+26,Male,Married,Student,Yes,"Facebook, Instagram",3,Stressed,No,Sometimes,Sometimes,1,No,7,4,3,1,Yes
+26,Male,Married,Student,Yes,Facebook,2,Happy,No,Sometimes,Sometimes,3,Yes,6,2,3,2,Yes
+26,Male,Single,Student,Yes,"Facebook, YouTube, Tik Tok",4,Happy,Yes,Yes,Yes,3,Yes,7,1,1,2,No
+27,Female,In a relationship,Student,Yes,"Facebook, Instagram, Tik Tok",3,Happy,Yes,No,Sometimes,1,Yes,6,2,1,3,No
+28,Male,In a relationship,Service Holder,Yes,"Facebook, YouTube, Tik Tok",2,Happy,Yes,Yes,Yes,3,Yes,7,2,1,2,Yes
+31,Female,Single,Others,Yes,Facebook,2,Anxious,Yes,Yes,Sometimes,2,Yes,7,3,2,1,No
+28,Female,Married,Student,Yes,Tik Tok,4,Happy,Yes,No,Sometimes,1,Yes,6,2,3,5,Yes
+75,Male,Married,Businessman,Yes,Twitter,5,Stressed,No,Sometimes,Yes,3,No,5,1,1,5,Yes
+29,Male,Married,Student,Yes,"Facebook, YouTube, Tik Tok",1,Happy,Yes,Sometimes,Yes,2,Yes,6,2,1,1,No
+34,Female,Married,Service Holder,Yes,Instagram,2,Anxious,No,No,Sometimes,4,No,4,3,3,5,Yes
+30,Male,Single,Student,Yes,"Facebook, YouTube, Tik Tok",3,Happy,Yes,No,No,2,No,5,2,2,1,Yes
+42,Female,Married,Businessman,Yes,Twitter,4,Indifferent,No,No,Sometimes,3,No,9,3,4,4,No
+31,Male,In a relationship,Businessman,Yes,"Facebook, Instagram, Twitter, Tik Tok",4,Indifferent,Yes,Yes,Yes,3,No,5,3,2,2,Yes
+66,Male,In a relationship,Businessman,Yes,Facebook,5,Anxious,Sometimes,Sometimes,No,3,Yes,7,3,4,4,No
+31,Female,Married,Service Holder,Yes,"Facebook, YouTube, Tik Tok",3,Happy,Yes,Yes,Sometimes,2,Yes,7,1,1,1,No
+90,Male,Single,Service Holder,Yes,Tik Tok,4,Stressed,Sometimes,No,Yes,5,Yes,9,3,4,2,Yes
+33,Male,Married,Businessman,Yes,"Facebook, Tik Tok",2,Indifferent,Sometimes,Sometimes,Sometimes,5,Yes,6,1,2,4,No
+32,Male,In a relationship,Businessman,Yes,Facebook,5,Indifferent,No,Sometimes,No,3,Yes,3,4,4,3,Yes
+34,Male,Married,Businessman,Yes,"Facebook, YouTube",4,Anxious,Yes,No,Sometimes,3,Yes,8,1,3,4,No
+12,Male,In a relationship,Student,Yes,Tik Tok,4,Anxious,Yes,Sometimes,Yes,1,No,6,4,4,3,No
+35,Male,In a relationship,Service Holder,Yes,"Facebook, Instagram, YouTube, Tik Tok",2,Stressed,No,No,Sometimes,1,No,7,2,3,4,No
+65,Female,Married,Businessman,Yes,Tik Tok,4,Happy,Sometimes,Yes,Yes,3,No,8,3,2,5,No
+35,Male,Married,Service Holder,Yes,"Facebook, Twitter, YouTube",1,Anxious,Yes,Yes,Sometimes,3,No,7,3,3,2,No
+56,Male,Married,Businessman,Yes,Instagram,2,Anxious,Yes,No,Sometimes,3,No,8,5,3,4,No
+23,Female,Married,Student,Yes,"Facebook, Instagram, Twitter, YouTube",3,Happy,Sometimes,No,Yes,4,No,7,3,3,2,Yes
+36,Male,Married,Businessman,No,"Facebook, YouTube, Tik Tok",3,Anxious,No,No,Yes,2,Yes,7,1,3,4,No
+34,Female,Married,Service Holder,Yes,Instagram,2,Anxious,No,No,No,3,Yes,9,4,3,4,Yes
+37,Male,Married,Service Holder,Yes,"Facebook, Instagram, Tik Tok",3,Stressed,No,Sometimes,Sometimes,4,Yes,6,1,3,4,Yes
+65,Female,In a relationship,Service Holder,Yes,Instagram,4,Anxious,Sometimes,No,Yes,2,No,5,2,1,1,No
+38,Female,Married,Others,Yes,"Facebook, Tik Tok",4,Happy,Yes,Sometimes,Sometimes,5,Yes,7,2,2,2,Yes
+75,Male,Married,Businessman,Yes,Twitter,3,Stressed,Sometimes,No,No,4,No,8,3,5,5,Yes
+39,Female,Married,Service Holder,Yes,"Facebook, YouTube, Discord",4,Happy,Sometimes,Sometimes,Sometimes,3,Yes,8,1,3,3,Yes
+87,Male,Married,Businessman,Yes,Instagram,2,Stressed,Sometimes,No,No,3,Yes,7,3,3,5,Yes
+40,Male,Married,Businessman,Yes,"Facebook, Tik Tok",3,Happy,No,No,Yes,1,Yes,7,1,1,1,No
+32,Male,In a relationship,Businessman,Yes,Twitter,3,Anxious,Yes,No,No,2,No,6,3,1,5,Yes
+41,Male,Married,Service Holder,Yes,"Facebook, YouTube",4,Happy,Yes,Sometimes,Sometimes,3,Yes,6,3,3,3,No
+42,Female,Married,Service Holder,Yes,"Facebook, YouTube",1,Anxious,Yes,No,No,3,Yes,8,2,1,1,Yes
+43,Female,Married,Service Holder,Yes,YouTube,3,Stressed,Sometimes,Sometimes,No,4,No,8,3,5,4,Yes
+43,Male,Married,Businessman,Yes,Facebook,4,Happy,Yes,No,Sometimes,4,No,7,4,2,2,No
+43,Female,Divorced,Service Holder,Yes,Instagram,3,Stressed,Sometimes,Sometimes,Sometimes,3,No,8,3,4,4,Yes
+44,Male,Married,Others,Yes,"Twitter, SnapChat",2,Happy,Yes,Sometimes,Sometimes,3,Yes,8,1,1,1,Yes
+23,Male,Single,Businessman,Yes,Instagram,4,Indifferent,Sometimes,No,Sometimes,3,Yes,6,1,2,2,No
+45,Female,Married,Businessman,Yes,Tik Tok,4,Happy,Sometimes,Sometimes,Sometimes,4,No,7,1,4,4,No
+47,Male,Married,Service Holder,Yes,Tik Tok,3,Anxious,Sometimes,Yes,No,2,Yes,7,2,1,3,Yes
+43,Female,In a relationship,Businessman,Yes,Facebook,2,Happy,No,Sometimes,No,3,No,7,2,4,2,Yes
+15,Female,Single,Student,Yes,"YouTube, Tik Tok",3,Happy,Yes,Sometimes,Sometimes,3,Yes,5,2,2,3,No
+41,Female,Married,Others,Yes,Tik Tok,2,Happy,Sometimes,Yes,Sometimes,4,Yes,9,1,3,5,No
+16,Male,Single,Student,Yes,"Facebook, Instagram, YouTube, Tik Tok",3,Happy,Yes,Yes,Sometimes,3,Yes,8,2,1,1,Yes
+17,Female,Single,Student,Yes,"Facebook, YouTube, Tik Tok",2,Happy,Yes,No,Sometimes,3,Yes,8,3,3,1,Yes
+23,Male,Married,Service Holder,Yes,SnapChat,4,Stressed,Yes,Sometimes,No,1,Yes,5,4,5,2,No
+17,Male,Single,Student,Yes,Facebook,4,Happy,Sometimes,Sometimes,Sometimes,4,Yes,8,2,2,3,No
+32,Female,Married,Businessman,Yes,Tik Tok,3,Indifferent,Sometimes,No,Sometimes,3,Yes,7,3,2,4,No
+18,Male,Single,Student,Yes,"Facebook, YouTube, Tik Tok",1,Happy,Yes,No,Sometimes,1,Yes,8,1,3,2,No
+56,Male,Married,Businessman,Yes,Tik Tok,2,Stressed,No,No,Sometimes,4,Yes,8,3,3,4,No
+19,Male,In a relationship,Service Holder,Yes,"Facebook, YouTube, Tik Tok, Discord",5,Anxious,Yes,Sometimes,Sometimes,1,Yes,8,3,3,3,Yes
+7,Male,Single,Student,Yes,Twitter,3,Happy,Yes,No,Sometimes,2,No,8,4,3,2,No
+20,Male,In a relationship,Service Holder,Yes,"Facebook, YouTube",4,Anxious,No,Sometimes,Sometimes,3,Yes,7,2,3,3,Yes
+58,Female,In a relationship,Businessman,Yes,Instagram,1,Stressed,Sometimes,No,Yes,2,No,5,2,4,3,No
+21,Male,Married,Service Holder,Yes,"Facebook, Instagram, Tik Tok, SnapChat",2,Happy,No,Sometimes,Sometimes,2,No,8,1,2,3,Yes
+78,Female,Married,Businessman,Yes,Tik Tok,4,Anxious,Yes,No,No,2,Yes,6,3,4,3,Yes
+22,Male,In a relationship,Student,Yes,"Facebook, Instagram, YouTube, Tik Tok",4,Happy,Yes,Yes,Yes,3,Yes,8,2,2,2,Yes
+45,Male,Married,Businessman,Yes,Tik Tok,3,Stressed,Sometimes,No,Sometimes,4,No,9,4,5,4,Yes
+23,Male,In a relationship,Service Holder,Yes,"Facebook, Tik Tok",4,Anxious,Yes,Yes,Sometimes,3,Yes,8,1,3,3,No
+42,Female,Married,Businessman,Yes,Twitter,4,Stressed,Sometimes,No,Sometimes,2,Yes,9,3,3,3,Yes
+24,Male,In a relationship,Service Holder,Yes,"Facebook, Instagram, YouTube, Tik Tok",5,Happy,Yes,Sometimes,Sometimes,4,Yes,8,2,3,4,No
+50,Female,Married,Service Holder,Yes,SnapChat,3,Anxious,Sometimes,No,Yes,4,No,8,4,3,5,No
+25,Female,In a relationship,Service Holder,Yes,"Facebook, YouTube, Tik Tok",4,Indifferent,Sometimes,Sometimes,Sometimes,4,Yes,7,1,2,3,No
+51,Female,Married,Businessman,Yes,Facebook,3,Stressed,No,Yes,Sometimes,3,No,9,2,1,5,Yes
+26,Female,In a relationship,Service Holder,Yes,"Facebook, Tik Tok",3,Anxious,Sometimes,Sometimes,Sometimes,4,Yes,8,1,2,2,Yes
+21,Female,In a relationship,Businessman,Yes,Instagram,2,Anxious,Sometimes,Sometimes,No,4,Yes,7,2,4,3,Yes
+28,Male,In a relationship,Businessman,Yes,Facebook,4,Indifferent,Sometimes,Sometimes,Sometimes,4,Yes,8,1,1,1,Yes
+29,Male,In a relationship,Student,Yes,"Facebook, Tik Tok",4,Stressed,Yes,Sometimes,Sometimes,4,Yes,9,1,2,1,Yes
+45,Female,In a relationship,Service Holder,Yes,Tik Tok,3,Anxious,No,Sometimes,No,4,Yes,8,4,3,3,Yes
+30,Male,In a relationship,Businessman,Yes,Facebook,3,Anxious,Yes,Sometimes,Sometimes,2,Yes,8,1,1,2,Yes
+23,Female,Married,Businessman,Yes,Facebook,2,Anxious,Sometimes,Yes,No,1,No,8,4,4,3,Yes
+15,Female,Single,Student,No,"YouTube, Tik Tok",3,Happy,Yes,Sometimes,Sometimes,4,Yes,7,1,1,2,Yes
+15,Male,Single,Student,Yes,Instagram,2,Anxious,Sometimes,Sometimes,Sometimes,2,Yes,3,4,3,2,Yes
+22,Female,In a relationship,Student,Yes,"Facebook, Instagram, YouTube",5,Stressed,Sometimes,No,Yes,4,Yes,7,3,2,1,No
+16,Female,In a relationship,Student,Yes,"Facebook, YouTube, Tik Tok",4,Happy,Yes,Sometimes,Sometimes,3,No,6,2,2,3,Yes
+43,Male,Married,Businessman,Yes,Facebook,2,Stressed,Sometimes,No,Sometimes,2,No,8,1,3,5,No
+13,Male,Single,Businessman,Yes,Twitter,2,Stressed,No,Sometimes,Sometimes,2,No,7,5,4,1,No
+17,Female,In a relationship,Student,Yes,"Facebook, Instagram, YouTube, Tik Tok",2,Happy,No,Sometimes,Sometimes,3,Yes,7,2,3,4,No
+17,Male,Single,Student,Yes,Facebook,4,Stressed,No,No,Yes,1,Yes,9,3,2,1,Yes
+18,Female,Single,Student,Yes,"Facebook, Tik Tok",3,Happy,Yes,Sometimes,No,2,No,8,3,4,4,No
+23,Female,Married,Student,Yes,YouTube,4,Stressed,Sometimes,No,No,4,Yes,5,3,4,3,Yes
+19,Female,In a relationship,Service Holder,Yes,"Facebook, Tik Tok",3,Happy,Sometimes,Sometimes,Sometimes,3,Yes,9,2,3,4,No
+21,Female,In a relationship,Businessman,Yes,Facebook,3,Indifferent,Sometimes,Sometimes,No,1,Yes,7,3,2,2,Yes
+20,Female,In a relationship,Service Holder,Yes,"Facebook, Tik Tok",3,Happy,Yes,Yes,Sometimes,3,Yes,9,1,2,1,Yes
+15,Male,Single,Student,No,YouTube,2,Anxious,Sometimes,No,Sometimes,2,No,4,3,2,2,Yes
+21,Female,In a relationship,Service Holder,Yes,"Facebook, Tik Tok",2,Anxious,Yes,Sometimes,Sometimes,3,Yes,8,1,2,2,Yes
+85,Female,Divorced,Businessman,Yes,SnapChat,3,Stressed,No,No,No,3,Yes,2,3,2,2,Yes
+32,Female,In a relationship,Service Holder,Yes,SnapChat,4,Anxious,No,Sometimes,No,2,Yes,6,3,4,4,Yes
+22,Female,In a relationship,Student,Yes,"Facebook, YouTube, Tik Tok",4,Stressed,Sometimes,Sometimes,Sometimes,3,Yes,9,2,2,3,Yes
+23,Female,Married,Service Holder,Yes,"Facebook, Tik Tok",3,Anxious,Yes,Yes,Sometimes,4,Yes,7,2,1,1,No
+34,Male,Single,Businessman,Yes,Twitter,2,Stressed,Sometimes,Sometimes,No,2,No,9,2,2,3,No
+24,Female,Married,Businessman,Yes,"Facebook, YouTube, Tik Tok",4,Stressed,Sometimes,Sometimes,Yes,4,Yes,8,2,2,3,No
+25,Female,In a relationship,Service Holder,Yes,"Facebook, Twitter",4,Happy,Yes,No,Yes,3,No,7,3,4,3,No
+23,Female,Married,Student,No,Facebook,3,Stressed,No,No,No,2,Yes,3,2,3,3,No
+26,Female,Married,Service Holder,Yes,"Facebook, YouTube",5,Indifferent,Yes,Sometimes,Yes,5,Yes,9,2,2,5,No
+23,Male,Single,Student,Yes,Twitter,2,Anxious,Sometimes,Yes,No,2,No,5,3,3,2,Yes
+27,Female,Married,Service Holder,Yes,"Facebook, Tik Tok",4,Anxious,Yes,Yes,Sometimes,4,No,8,3,4,5,No
+22,Male,Married,Service Holder,Yes,Instagram,4,Anxious,Yes,Yes,No,4,No,7,4,2,1,Yes
+28,Female,In a relationship,Student,Yes,"Facebook, Tik Tok",4,Happy,Sometimes,No,Sometimes,4,No,7,1,2,4,No
+43,Female,In a relationship,Businessman,Yes,YouTube,4,Happy,No,Sometimes,Yes,2,No,6,3,4,5,No
+29,Female,Married,Service Holder,Yes,"Facebook, Instagram, YouTube, Discord",4,Indifferent,Yes,Sometimes,Sometimes,5,Yes,9,2,2,3,Yes
+23,Male,Divorced,Businessman,Yes,Tik Tok,3,Indifferent,No,Yes,Sometimes,1,No,9,4,1,5,Yes
+30,Female,Married,Businessman,Yes,"Facebook, YouTube, Tik Tok",3,Happy,Yes,Yes,Yes,4,No,7,1,2,4,No
+34,Male,Divorced,Businessman,No,Instagram,3,Stressed,Yes,Yes,Sometimes,1,Yes,6,2,2,3,Yes
+15,Male,Single,Student,Yes,"Facebook, Tik Tok",3,Happy,Yes,Sometimes,Sometimes,3,No,8,1,3,3,No
+45,Male,Divorced,Student,Yes,Instagram,2,Happy,No,Sometimes,Yes,5,No,6,5,5,1,Yes
+16,Male,Single,Student,Yes,"Facebook, YouTube, Tik Tok",5,Happy,Sometimes,Sometimes,Sometimes,1,Yes,9,1,1,3,No
+45,Male,In a relationship,Service Holder,Yes,Instagram,2,Happy,No,Sometimes,Yes,1,Yes,3,1,5,1,No
+17,Male,In a relationship,Student,Yes,"Facebook, Instagram, YouTube",4,Anxious,Yes,Yes,Sometimes,4,No,8,3,3,4,No
+35,Male,Divorced,Businessman,Yes,Facebook,2,Happy,No,Yes,Sometimes,4,Yes,7,5,2,3,Yes
+56,Male,In a relationship,Service Holder,Yes,Twitter,3,Happy,Sometimes,Yes,Yes,1,No,6,5,5,2,No
+18,Male,In a relationship,Student,Yes,"Facebook, YouTube, Tik Tok",4,Happy,Yes,Yes,Sometimes,3,Yes,8,3,3,3,No
+19,Male,In a relationship,Service Holder,Yes,Facebook,3,Indifferent,Sometimes,Sometimes,Sometimes,3,Yes,8,1,5,4,No
+21,Male,Single,Student,Yes,"Facebook, Instagram, Twitter, YouTube, Discord, Reddit",2,Anxious,Yes,Sometimes,Yes,5,No,5,3,2,3,Yes
+20,Male,Single,Service Holder,Yes,"Facebook, Instagram, Tik Tok",3,Happy,No,Sometimes,Sometimes,4,No,9,3,3,3,No
+23,Female,Single,Service Holder,Yes,"Facebook, Instagram, Twitter, YouTube, Tik Tok",4,Happy,Yes,No,Sometimes,5,No,5,2,1,1,No
+21,Male,Married,Service Holder,Yes,"Facebook, YouTube",4,Stressed,Yes,Sometimes,No,2,No,8,1,3,2,Yes
+19,Male,Married,Businessman,Yes,Instagram,5,Anxious,Yes,No,Sometimes,1,No,8,3,3,4,No
+22,Male,Married,Service Holder,Yes,"Facebook, Instagram",3,Happy,No,Sometimes,Sometimes,3,No,8,2,2,4,Yes
+21,Male,Single,Student,Yes,YouTube,2,Stressed,Sometimes,Yes,Sometimes,4,Yes,6,5,4,2,No
+23,Male,In a relationship,Businessman,Yes,"Facebook, Instagram, Tik Tok, Discord",4,Happy,Yes,Sometimes,Sometimes,1,No,8,3,1,4,No
+27,Male,Single,Student,No,YouTube,4,Indifferent,Yes,No,No,1,Yes,3,4,1,1,No
+24,Male,Married,Service Holder,Yes,"Facebook, Tik Tok",4,Stressed,No,Sometimes,Sometimes,3,Yes,7,3,3,3,Yes
+26,Male,In a relationship,Student,Yes,Facebook,1,Indifferent,Sometimes,Yes,No,2,Yes,7,5,1,1,Yes
+25,Male,Single,Businessman,Yes,"Facebook, Tik Tok",4,Stressed,No,No,Sometimes,3,No,8,2,1,2,Yes
+31,Female,Married,Service Holder,Yes,Tik Tok,2,Anxious,No,Yes,Sometimes,5,Yes,8,5,1,5,Yes
+26,Male,Married,Service Holder,Yes,"Facebook, Twitter, YouTube, Tik Tok",4,Stressed,Sometimes,Yes,Sometimes,3,Yes,8,1,1,1,No
+53,Male,Married,Businessman,Yes,Twitter,4,Happy,No,Sometimes,No,1,No,8,1,1,2,No
+27,Male,Married,Businessman,Yes,"Facebook, Instagram, YouTube, Tik Tok",3,Stressed,Yes,Yes,Sometimes,3,No,8,1,3,4,Yes
+28,Male,Married,Service Holder,Yes,"Facebook, Instagram, YouTube",2,Anxious,No,Sometimes,Sometimes,4,Yes,9,1,1,2,Yes
+29,Male,Single,Businessman,Yes,"Facebook, YouTube, Tik Tok",4,Happy,Sometimes,Sometimes,Sometimes,4,No,9,2,3,3,No
+34,Female,In a relationship,Service Holder,Yes,SnapChat,3,Stressed,Sometimes,Yes,Sometimes,2,No,7,4,1,2,Yes
+14,Male,Single,Student,Yes,Facebook,5,Happy,Sometimes,No,Yes,5,No,3,2,1,4,No
+30,Male,Married,Service Holder,Yes,Facebook,4,Indifferent,Yes,Sometimes,Sometimes,1,Yes,9,1,1,2,Yes
+19,Female,In a relationship,Businessman,Yes,Twitter,3,Indifferent,Sometimes,Yes,No,3,Yes,7,4,1,3,Yes
+31,Female,Married,Service Holder,Yes,"Facebook, YouTube, Tik Tok",4,Happy,Yes,Sometimes,Sometimes,2,Yes,8,2,4,5,No
+34,Male,Married,Service Holder,Yes,Tik Tok,2,Anxious,Sometimes,Sometimes,No,4,Yes,8,5,3,1,Yes
+32,Female,Married,Businessman,Yes,"Facebook, YouTube",1,Anxious,No,No,No,2,Yes,8,1,2,4,No
+34,Female,Married,Businessman,Yes,Instagram,1,Indifferent,No,Yes,Sometimes,3,Yes,9,1,1,2,No
+33,Male,Married,Businessman,Yes,Facebook,5,Indifferent,Yes,Sometimes,Sometimes,4,No,7,1,2,4,Yes
+34,Male,In a relationship,Service Holder,Yes,"Facebook, Instagram, Tik Tok, Discord",2,Happy,Yes,No,No,3,Yes,9,3,4,5,No
+23,Female,Married,Service Holder,Yes,Facebook,3,Anxious,No,Sometimes,Yes,4,No,9,2,3,5,Yes
+35,Male,Married,Service Holder,Yes,"Facebook, Twitter, YouTube, ",2,Indifferent,Sometimes,Sometimes,Sometimes,3,Yes,9,1,3,4,Yes
+32,Female,Married,Service Holder,Yes,Facebook,4,Anxious,No,Sometimes,No,3,Yes,5,4,4,3,Yes
+31,Male,Married,Service Holder,Yes,Instagram,1,Indifferent,Yes,No,Sometimes,1,Yes,5,4,5,1,Yes
+54,Female,Married,Businessman,Yes,Instagram,2,Happy,Sometimes,Yes,No,2,No,6,2,3,2,No
+35,Female,Married,Student,Yes,Facebook,2,Happy,Yes,No,Sometimes,4,Yes,7,5,4,3,No
+54,Male,In a relationship,Others,Yes,YouTube,2,Indifferent,No,Sometimes,Yes,1,Yes,7,2,5,2,Yes
+76,Female,In a relationship,Student,No,Instagram,3,Anxious,No,Yes,Sometimes,4,No,4,2,4,2,Yes
+54,Male,Married,Businessman,Yes,Tik Tok,1,Anxious,No,No,Sometimes,3,Yes,7,2,5,2,Yes
+32,Female,In a relationship,Businessman,Yes,Twitter,4,Anxious,Yes,No,Sometimes,4,No,7,5,2,3,No
+75,Male,Married,Businessman,Yes,Instagram,1,Happy,Yes,Sometimes,Sometimes,4,No,6,4,5,1,No
+54,Male,In a relationship,Service Holder,Yes,Facebook,2,Happy,No,Sometimes,No,1,Yes,4,5,3,1,No
+32,Male,Single,Others,Yes,Facebook,5,Anxious,Yes,Yes,No,3,No,5,3,2,4,No
+12,Female,Single,Student,Yes,Instagram,2,Happy,No,No,Sometimes,5,Yes,9,4,2,2,No
+34,Male,Married,Businessman,Yes,Facebook,4,Happy,Yes,No,No,2,Yes,6,4,4,2,No
+23,Male,In a relationship,Student,Yes,Instagram,3,Anxious,Sometimes,No,No,3,No,7,5,4,4,Yes
+35,Male,In a relationship,Service Holder,Yes,YouTube,4,Stressed,Sometimes,Sometimes,Sometimes,3,Yes,8,5,3,2,Yes
+37,Female,Married,Businessman,Yes,Facebook,2,Anxious,No,Yes,Sometimes,3,Yes,7,5,4,2,Yes
+45,Male,In a relationship,Student,Yes,Tik Tok,1,Anxious,No,Sometimes,Sometimes,5,No,8,4,2,2,Yes
+38,Male,In a relationship,Service Holder,Yes,Twitter,2,Anxious,Sometimes,No,No,4,No,6,3,2,5,Yes
+31,Male,Married,Service Holder,Yes,"Facebook, YouTube",4,Happy,Yes,Sometimes,No,2,No,8,1,2,2,No
+45,Male,Married,Service Holder,Yes,Tik Tok,2,Happy,No,Sometimes,Yes,4,No,8,5,3,3,No
+32,Male,In a relationship,Businessman,Yes,"Facebook, Tik Tok, Discord",2,Happy,Yes,Sometimes,No,2,Yes,8,1,3,4,No
+65,Female,In a relationship,Businessman,Yes,YouTube,3,Anxious,Yes,No,No,4,No,6,4,3,5,Yes
+33,Female,Married,Service Holder,Yes,Facebook,2,Happy,Sometimes,Yes,Sometimes,1,No,7,3,2,3,Yes
+87,Male,Divorced,Student,Yes,Twitter,4,Stressed,Sometimes,No,No,1,No,5,3,2,4,Yes
+34,Male,Single,Student,Yes,Facebook,5,Stressed,Yes,Sometimes,Sometimes,3,Yes,8,3,2,4,Yes
+23,Male,Single,Student,Yes,Facebook,2,Happy,Sometimes,No,Yes,2,Yes,2,3,3,5,No
+35,Female,Married,Service Holder,Yes,"Facebook, Tik Tok",2,Happy,Yes,Sometimes,Sometimes,4,Yes,7,3,5,3,No
+45,Female,Married,Service Holder,Yes,Facebook,2,Indifferent,No,Yes,No,1,Yes,7,1,5,3,No
+36,Male,Single,Service Holder,Yes,"Facebook, Instagram, Twitter, YouTube, Tik Tok",4,Stressed,No,Sometimes,Sometimes,2,No,9,1,3,3,No
+45,Female,In a relationship,Businessman,No,YouTube,2,Anxious,No,Sometimes,No,3,No,7,5,3,2,Yes
+37,Female,Married,Service Holder,Yes,"Facebook, Tik Tok",4,Happy,Yes,No,Sometimes,2,Yes,7,1,1,2,No
+34,Female,Married,Businessman,Yes,Twitter,1,Anxious,No,Yes,Yes,1,No,7,4,2,1,No
+38,Male,Married,Businessman,Yes,"Facebook, YouTube, Tik Tok",3,Stressed,No,No,Yes,1,Yes,8,2,2,1,No
+34,Male,In a relationship,Service Holder,Yes,Instagram,3,Anxious,Sometimes,No,No,5,Yes,7,3,4,4,Yes
+40,Male,Married,Businessman,Yes,"Facebook, YouTube, Tik Tok",3,Happy,No,No,Sometimes,2,Yes,7,2,3,5,No
+67,Male,In a relationship,Service Holder,Yes,Instagram,4,Anxious,Yes,No,Sometimes,4,Yes,8,3,4,4,Yes
+56,Female,Single,Businessman,Yes,Facebook,2,Happy,No,No,Yes,2,Yes,7,3,2,1,No
+68,Female,Divorced,Businessman,Yes,YouTube,3,Happy,No,Yes,No,3,Yes,7,3,4,5,No
+34,Female,Married,Businessman,No,Twitter,4,Stressed,Sometimes,No,No,4,Yes,8,2,4,3,Yes
+20,Male,Single,Student,Yes,"Facebook, Instagram, Twitter, Tik Tok, Discord",3,Happy,Yes,Yes,Yes,3,Yes,3,3,2,3,No
+20,Female,Single,Student,Yes,"Facebook, Instagram, YouTube, Tik Tok",5,Happy,Yes,Yes,Yes,5,Yes,8,4,4,3,No
+23,Male,Single,Student,Yes,Facebook,4,Anxious,Sometimes,No,Sometimes,3,Yes,7,3,3,3,Yes
+15,Female,Single,Student,Yes,"Facebook, Instagram, YouTube, Tik Tok",3,Happy,Yes,Sometimes,Sometimes,4,Yes,8,1,2,3,No
+16,Female,Single,Student,Yes,"YouTube, Tik Tok",3,Happy,Yes,No,Sometimes,3,No,8,2,4,5,Yes
+17,Female,In a relationship,Student,Yes,"Facebook, YouTube, Tik Tok",2,Indifferent,Yes,Sometimes,Yes,3,Yes,9,5,1,5,Yes
+18,Female,In a relationship,Student,Yes,"Facebook, Tik Tok",3,Happy,Yes,Yes,Sometimes,2,Yes,8,3,3,3,No
+19,Female,In a relationship,Student,Yes,"Facebook, YouTube",4,Happy,No,Sometimes,Sometimes,5,Yes,9,4,4,4,No
+20,Female,In a relationship,Service Holder,Yes,"Facebook, Instagram, Tik Tok",4,Happy,Yes,No,Sometimes,4,Yes,9,2,3,2,Yes
+21,Female,In a relationship,Student,Yes,"Facebook, YouTube, Tik Tok",1,Stressed,Yes,Yes,No,3,Yes,5,2,2,3,No
+22,Female,In a relationship,Service Holder,Yes,"Facebook, Instagram, YouTube, Tik Tok",4,Happy,Yes,No,Sometimes,2,No,7,1,2,4,No
+23,Female,In a relationship,Student,Yes,Facebook,3,Happy,No,Sometimes,Sometimes,3,Yes,6,2,3,3,No
+24,Female,Single,Student,Yes,"Facebook, Tik Tok",3,Stressed,No,Sometimes,Sometimes,4,No,8,3,2,2,No
+25,Female,Married,Service Holder,Yes,"Facebook, YouTube, Tik Tok",4,Happy,Yes,Sometimes,Sometimes,1,Yes,7,1,1,1,No
+26,Female,In a relationship,Businessman,Yes,"Facebook, Instagram, YouTube, Tik Tok",4,Happy,Yes,Yes,Yes,2,Yes,7,2,3,4,No
+27,Female,In a relationship,Businessman,Yes,"Facebook, YouTube, Tik Tok, SnapChat",3,Anxious,No,No,Sometimes,3,No,6,2,2,3,No
+28,Female,Married,Businessman,Yes,"Facebook, Instagram, Twitter, YouTube, Tik Tok, Discord, SnapChat",5,Indifferent,Sometimes,Sometimes,Sometimes,4,Yes,6,3,2,2,Yes
+29,Female,In a relationship,Service Holder,Yes,"Facebook, YouTube",4,Anxious,No,No,No,2,Yes,7,2,1,2,No
+30,Female,Married,Businessman,Yes,Facebook,4,Happy,Yes,No,Sometimes,1,No,8,1,2,3,No
+20,Male,In a relationship,Student,Yes,"Facebook, Instagram, YouTube, Tik Tok",5,Happy,Yes,Yes,Yes,3,No,7,1,1,2,No
+16,Male,Single,Student,Yes,"YouTube, Tik Tok",5,Happy,Sometimes,Sometimes,Sometimes,2,Yes,6,1,4,4,Yes
+17,Male,In a relationship,Student,Yes,"Facebook, Twitter, YouTube, Tik Tok",4,Stressed,Yes,Yes,Sometimes,2,Yes,7,1,3,3,Yes
+17,Male,In a relationship,Student,Yes,"Facebook, Instagram, YouTube, Tik Tok",5,Indifferent,No,Sometimes,Sometimes,3,No,5,1,1,3,Yes
+18,Male,In a relationship,Student,Yes,"Facebook, Twitter, YouTube, Tik Tok",4,Happy,Sometimes,No,Yes,3,No,7,1,4,3,No
+19,Male,In a relationship,Student,Yes,"Facebook, Instagram, YouTube, Tik Tok, Discord, SnapChat",4,Happy,Yes,Yes,Yes,3,Yes,7,1,4,3,No
+20,Male,In a relationship,Student,Yes,"Facebook, Instagram, Tik Tok",3,Happy,Yes,Sometimes,Sometimes,4,Yes,7,2,2,4,Yes
+21,Male,In a relationship,Student,Yes,"Facebook, Instagram, YouTube, Tik Tok",5,Happy,Yes,Yes,Yes,2,Yes,6,2,1,3,No
+22,Male,Married,Service Holder,Yes,"Facebook, Tik Tok, Discord",4,Anxious,Yes,No,Sometimes,4,Yes,8,2,2,2,Yes
+22,Male,In a relationship,Businessman,Yes,"Facebook, Instagram, YouTube, Tik Tok",5,Happy,Yes,Sometimes,No,1,Yes,8,1,2,3,No
+23,Male,In a relationship,Service Holder,Yes,"Facebook, Tik Tok",3,Anxious,Yes,No,Sometimes,3,Yes,6,3,3,4,Yes
+24,Male,Married,Businessman,Yes,"Facebook, Tik Tok",4,Happy,Yes,Sometimes,Sometimes,3,Yes,7,2,3,4,No
+25,Male,Married,Service Holder,Yes,"Facebook, Instagram, YouTube, Tik Tok, SnapChat",3,Anxious,No,No,No,2,Yes,6,2,1,2,Yes
+26,Male,Married,Service Holder,Yes,Facebook,4,Stressed,Yes,Sometimes,Sometimes,4,Yes,6,2,3,3,Yes
+27,Male,In a relationship,Student,Yes,"Facebook, Tik Tok, Discord",3,Stressed,Yes,Yes,Yes,2,No,7,3,3,1,Yes
+28,Male,Married,Businessman,Yes,"Facebook, Tik Tok, Discord",4,Anxious,Sometimes,Yes,Sometimes,3,No,6,1,2,4,Yes
+29,Male,Married,Businessman,Yes,"Facebook, Instagram, Twitter, YouTube, Tik Tok",4,Happy,Yes,Sometimes,Yes,4,Yes,6,1,3,3,No
+30,Male,Married,Service Holder,Yes,"Facebook, Instagram",4,Stressed,No,Sometimes,Sometimes,3,No,8,1,3,5,Yes
+31,Male,Married,Service Holder,Yes,"Facebook, YouTube, Tik Tok",2,Anxious,Yes,No,Sometimes,3,Yes,7,2,3,4,No
+32,Male,Married,Businessman,Yes,"Facebook, Tik Tok",4,Happy,No,Yes,Sometimes,1,Yes,6,2,3,4,No
+33,Male,Married,Service Holder,Yes,"Facebook, YouTube, Tik Tok",3,Happy,No,Sometimes,Sometimes,3,Yes,9,3,1,4,No
+34,Male,Married,Businessman,Yes,"Facebook, Instagram, Tik Tok, Discord",4,Stressed,Yes,Sometimes,No,4,Yes,7,3,4,4,Yes
+35,Male,Married,Businessman,Yes,"Facebook, Instagram, Discord, SnapChat",3,Stressed,Sometimes,Sometimes,Sometimes,3,No,8,2,2,4,Yes
+36,Male,Married,Service Holder,Yes,"Facebook, Tik Tok",4,Anxious,Yes,Sometimes,Sometimes,1,No,7,1,2,4,Yes
+37,Male,Married,Others,Yes,"Facebook, Instagram, YouTube, Tik Tok",5,Anxious,Yes,Yes,Yes,4,Yes,6,2,2,3,Yes
+37,Male,Divorced,Service Holder,No,"Facebook, Twitter, Discord",4,Happy,Yes,Yes,No,4,No,7,1,3,4,Yes
+38,Male,Married,Service Holder,Yes,"Facebook, YouTube, Tik Tok",3,Happy,Yes,No,Sometimes,2,No,8,3,1,3,No
+39,Male,Married,Student,Yes,"Facebook, Instagram, Tik Tok, Discord",2,Happy,No,Yes,Sometimes,3,Yes,8,2,4,4,Yes
+40,Male,Married,Service Holder,Yes,"Facebook, Twitter, YouTube, Tik Tok",4,Happy,Yes,Yes,Sometimes,2,Yes,9,4,4,3,No
+31,Female,Married,Others,Yes,"Facebook, Tik Tok",4,Happy,Yes,No,Sometimes,4,No,8,4,4,2,No
+20,Female,Single,Student,Yes,"Facebook, Instagram, YouTube, Tik Tok",4,Happy,No,Sometimes,Sometimes,4,No,7,3,4,3,No
+21,Female,In a relationship,Service Holder,Yes,"Facebook, Instagram, YouTube, Tik Tok",4,Happy,Yes,Yes,Sometimes,4,No,7,1,4,3,No
+22,Female,Married,Student,Yes,"Facebook, YouTube, Discord",1,Anxious,No,Sometimes,No,1,Yes,6,3,3,2,Yes
+23,Male,In a relationship,Service Holder,Yes,"Facebook, Instagram, Tik Tok, Discord",3,Happy,Yes,No,Yes,5,No,6,3,4,3,Yes
+25,Female,In a relationship,Student,Yes,"Facebook, Instagram, YouTube, Tik Tok",4,Anxious,Yes,Yes,Sometimes,2,No,7,4,5,4,Yes
+26,Female,In a relationship,Service Holder,Yes,"YouTube, Tik Tok",2,Indifferent,Yes,Yes,Yes,5,Yes,7,1,3,1,No
+27,Female,Married,Service Holder,Yes,"Facebook, YouTube, Tik Tok",4,Happy,Yes,Yes,No,2,No,8,3,3,3,No
+27,Female,Married,Service Holder,Yes,"YouTube, Tik Tok",3,Anxious,No,No,Yes,2,Yes,7,3,4,4,Yes
+28,Female,Married,Businessman,Yes,"Facebook, Instagram, YouTube, Tik Tok",3,Happy,Sometimes,Sometimes,Sometimes,4,No,7,1,2,3,No
+29,Female,Married,Service Holder,Yes,"Facebook, Instagram, YouTube, Tik Tok",4,Stressed,Yes,Sometimes,Sometimes,4,Yes,7,2,4,4,Yes
+30,Female,Married,Service Holder,Yes,"Facebook, Instagram, YouTube, Tik Tok",3,Happy,Sometimes,Sometimes,Sometimes,3,Yes,8,4,4,4,No
+20,Male,In a relationship,Student,Yes,"Facebook, Instagram, Tik Tok",2,Happy,No,Sometimes,Sometimes,4,Yes,8,2,2,3,No
+21,Female,Married,Others,Yes,"YouTube, Tik Tok",4,Happy,Yes,No,Sometimes,4,Yes,8,4,4,4,No
+22,Male,Married,Businessman,Yes,"Facebook, Instagram, YouTube, Tik Tok",3,Happy,Yes,Yes,Sometimes,3,Yes,6,3,1,2,No
+23,Male,Married,Service Holder,Yes,"Facebook, Instagram, YouTube, Tik Tok",2,Stressed,No,Sometimes,Sometimes,2,No,8,2,3,2,Yes
+34,Male,Married,Businessman,Yes,SnapChat,4,Happy,No,Sometimes,No,4,Yes,7,4,3,4,No
+32,Male,Married,Student,Yes,Instagram,4,Anxious,No,Yes,No,3,No,8,4,2,1,Yes
+43,Male,In a relationship,Businessman,Yes,Facebook,3,Indifferent,Yes,No,Sometimes,4,Yes,7,3,5,4,Yes
+25,Male,Single,Businessman,Yes,"Facebook, Tik Tok",4,Happy,Yes,Sometimes,Sometimes,2,Yes,7,2,3,3,No
+31,Female,Married,Businessman,Yes,Facebook,3,Indifferent,No,No,Sometimes,1,No,9,5,4,2,Yes
+23,Female,Married,Student,Yes,YouTube,3,Stressed,Sometimes,No,No,1,No,4,2,3,4,Yes
+26,Female,Married,Service Holder,Yes,"Facebook, Tik Tok",4,Indifferent,Sometimes,No,Sometimes,4,Yes,8,2,1,3,Yes
+27,Male,Married,Student,Yes,"Facebook, Instagram, Tik Tok",2,Happy,Yes,Yes,No,3,Yes,8,3,2,1,No
+28,Female,Married,Student,Yes,"YouTube, Tik Tok",4,Happy,No,No,Sometimes,5,Yes,8,2,2,3,No
+29,Male,Married,Businessman,Yes,"Facebook, Tik Tok",3,Anxious,Sometimes,Sometimes,Sometimes,1,Yes,7,4,3,3,Yes
+29,Male,In a relationship,Service Holder,Yes,"Instagram, YouTube, Tik Tok",4,Happy,No,Sometimes,Sometimes,4,Yes,6,1,3,3,No
+30,Male,In a relationship,Service Holder,Yes,"Facebook, YouTube, Tik Tok, Discord",4,Stressed,Sometimes,Sometimes,Sometimes,4,No,7,2,2,2,Yes
+31,Male,In a relationship,Service Holder,Yes,"Facebook, Tik Tok, Discord",4,Happy,Sometimes,Sometimes,Yes,3,Yes,8,3,3,2,No
+32,Female,Married,Others,Yes,"YouTube, Tik Tok",4,Happy,Yes,Sometimes,Sometimes,4,Yes,7,3,1,1,No
+32,Male,Married,Service Holder,Yes,"Facebook, Instagram, YouTube, Tik Tok",4,Stressed,Yes,No,Yes,1,Yes,5,3,2,1,Yes
+33,Male,Married,Service Holder,Yes,"Facebook, Twitter, YouTube, Tik Tok",4,Happy,Yes,No,No,3,Yes,6,1,1,1,No
+20,Male,Single,Student,Yes,"Facebook, YouTube, Tik Tok",5,Happy,Yes,Sometimes,Sometimes,3,Yes,7,4,3,2,No
+21,Male,In a relationship,Student,Yes,"Facebook, Instagram, YouTube, Tik Tok, Discord",4,Happy,Yes,Yes,Sometimes,2,Yes,7,3,2,2,Yes
+22,Male,In a relationship,Service Holder,Yes,"Facebook, Twitter, Tik Tok, SnapChat",5,Happy,Yes,Yes,No,4,Yes,8,4,4,3,No
+23,Male,In a relationship,Service Holder,Yes,"Facebook, Twitter, YouTube, Tik Tok",4,Stressed,Yes,Yes,Yes,4,Yes,7,4,3,3,Yes
+24,Male,Married,Businessman,Yes,"Facebook, Instagram, Tik Tok",4,Happy,Yes,No,Yes,2,Yes,8,3,3,2,Yes
+24,Male,In a relationship,Service Holder,Yes,"Facebook, YouTube, Tik Tok, SnapChat",3,Anxious,Sometimes,Sometimes,Sometimes,4,Yes,6,1,4,5,Yes
+25,Male,Single,Student,Yes,Facebook,4,Anxious,Yes,No,No,5,No,6,3,4,3,No
+26,Male,Single,Service Holder,Yes,"Facebook, Twitter, YouTube, Discord, SnapChat",4,Happy,Yes,Yes,Yes,3,Yes,7,1,1,1,No
+26,Male,Single,Service Holder,Yes,Facebook,1,Happy,No,Yes,Sometimes,3,Yes,6,3,3,3,No
+27,Male,Married,Businessman,Yes,"Instagram, Twitter, YouTube, Discord, SnapChat",4,Happy,No,Yes,Sometimes,5,No,6,4,4,2,Yes
+28,Female,Married,Service Holder,Yes,Tik Tok,4,Happy,Yes,No,Sometimes,4,Yes,7,2,3,3,No
+29,Male,Single,Businessman,Yes,"Facebook, Instagram, YouTube",2,Stressed,No,Sometimes,Sometimes,4,No,9,3,4,4,Yes
+29,Male,In a relationship,Businessman,No,"Facebook, YouTube",3,Happy,Yes,Yes,Yes,3,Yes,8,2,3,3,No
+32,Female,Married,Service Holder,Yes,Facebook,3,Stressed,No,Sometimes,No,2,Yes,5,1,4,5,Yes
+31,Male,Single,Businessman,Yes,Twitter,2,Happy,No,No,No,2,Yes,7,3,2,4,No
+32,Female,Married,Service Holder,Yes,Instagram,4,Happy,Sometimes,Yes,No,4,Yes,8,3,2,2,No
+20,Male,Single,Student,Yes,"Facebook, Instagram, YouTube",3,Happy,Yes,No,Sometimes,3,No,4,4,3,2,No
+17,Female,Married,Businessman,No,"Instagram, Tik Tok, Discord, SnapChat",2,Anxious,No,Yes,Sometimes,3,Yes,4,3,2,2,Yes
+15,Female,In a relationship,Student,No,"Facebook, Instagram, YouTube, Tik Tok",2,Stressed,Yes,No,Yes,3,No,3,3,2,2,Yes
+22,Female,Single,Student,Yes,"Facebook, Instagram, Twitter, YouTube",4,Stressed,Sometimes,No,Sometimes,4,Yes,7,3,2,2,Yes
+20,Female,Divorced,Student,Yes,"Facebook, Instagram, Twitter, YouTube",3,Happy,Yes,Yes,No,3,Yes,5,3,2,4,Yes
+23,Male,Single,Service Holder,Yes,"Facebook, YouTube",3,Indifferent,No,Sometimes,Sometimes,5,Yes,5,4,3,1,Yes
+30,Male,Married,Businessman,Yes,"Facebook, Instagram, Tik Tok",2,Anxious,Yes,No,Yes,4,Yes,1,2,3,2,Yes
+25,Female,Single,Businessman,Yes,"Facebook, Instagram",3,Indifferent,No,Yes,Sometimes,2,No,4,2,1,1,No
+21,Female,Married,Businessman,Yes,"Facebook, YouTube",4,Happy,No,No,Sometimes,5,No,7,3,3,2,No
+22,Female,Single,Service Holder,Yes,"Facebook, Instagram, Twitter",3,Happy,Yes,No,Sometimes,5,Yes,6,2,2,1,No
+25,Female,In a relationship,Student,Yes,"Facebook, YouTube",3,Happy,No,No,No,4,No,6,1,1,2,No
+21,Female,Single,Student,Yes,"Facebook, Instagram, Twitter, YouTube, Tik Tok",5,Happy,Yes,Yes,Yes,5,Yes,8,5,4,5,Yes
+26,Female,Married,Student,Yes,"Facebook, Instagram, Twitter, YouTube",4,Indifferent,No,No,Yes,4,Yes,5,2,2,3,No
+23,Male,In a relationship,Student,Yes,"Facebook, Instagram, YouTube",4,Stressed,No,Sometimes,Sometimes,4,Yes,6,4,4,4,Yes
+22,Male,Single,Student,Yes,YouTube,2,Indifferent,No,Yes,Yes,2,No,7,4,1,4,Yes
+22,Female,In a relationship,Student,Yes,"Facebook, YouTube",4,Happy,Yes,Sometimes,Yes,5,Yes,6,4,3,5,No
